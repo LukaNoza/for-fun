@@ -31,7 +31,7 @@ class Bubble {
     );
 
     gradient.addColorStop(0.3, "rgba(27, 147, 228, 0.637)");
-    gradient.addColorStop(0.95, "#e7feff");
+    gradient.addColorStop(0.95, "#00ffff");
 
     context.fillStyle = gradient;
     context.fill();
