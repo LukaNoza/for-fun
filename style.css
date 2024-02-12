@@ -1,0 +1,17 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    color: #131212;
+    background: rgb(44, 42, 42);
+    text-align: center;
+  }
+  
+  p {
+    padding: 40px;
+    color: #00ffff;
+  }
+  
+  #canvas {
+    background: #131212;
+    max-width: 100%;
+  }
